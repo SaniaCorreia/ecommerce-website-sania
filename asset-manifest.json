@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommerce-website-sania/static/css/main.679f8ee7.css",
+    "main.js": "/ecommerce-website-sania/static/js/main.604628ba.js",
+    "static/js/453.fd54090f.chunk.js": "/ecommerce-website-sania/static/js/453.fd54090f.chunk.js",
+    "index.html": "/ecommerce-website-sania/index.html",
+    "main.679f8ee7.css.map": "/ecommerce-website-sania/static/css/main.679f8ee7.css.map",
+    "main.604628ba.js.map": "/ecommerce-website-sania/static/js/main.604628ba.js.map",
+    "453.fd54090f.chunk.js.map": "/ecommerce-website-sania/static/js/453.fd54090f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679f8ee7.css",
+    "static/js/main.604628ba.js"
+  ]
+}
